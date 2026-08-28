@@ -15,10 +15,11 @@
   "instruments": [
     {
       "instrument": "Impuesto sobre el Patrimonio and temporary solidarity tax on large fortunes",
-      "governing_law": "Ley 19/1991 and Ley 38/2022",
+      "governing_law": "Ley 19/1991, Ley 38/2022, and the retroactive ITSGF exemption amendment in Real Decreto-ley 8/2023",
       "corpus_citation_paths": [
         "es/statute/ley-19-1991/impuesto-sobre-el-patrimonio",
-        "es/statute/ley-38-2022/impuesto-temporal-solidaridad-grandes-fortunas"
+        "es/statute/ley-38-2022/impuesto-temporal-solidaridad-grandes-fortunas",
+        "es/statute/real-decreto-ley-8-2023/itsgf-exemption-amendment"
       ],
       "status": "manifested_not_ingested"
     },

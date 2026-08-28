@@ -12,6 +12,8 @@ therefore remain deliberately non-validating.
 - Identified the prepared upstream source manifests.
 - Added Madrid, Andalucía, and Galicia sub-jurisdiction layout roots.
 - Recorded the governing instruments and corpus manifest paths.
+- Added the retroactive Real Decreto-ley 8/2023 article 17 authority required
+  to apply the 700,000 euro ITSGF exemption beyond personal-obligation cases.
 
 ## Next
 
