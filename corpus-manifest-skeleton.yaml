@@ -1,0 +1,19 @@
+# Scaffold artifact: move the completed manifest to axiom-corpus/manifests/.
+documents:
+  - source_id: TODO-es-official-source
+    jurisdiction: es
+    document_class: statute
+    citation_path: es/statute/TODO
+    title: "TODO(es): official Spain instrument title"
+    source_url: "TODO(es): stable official source URL"
+    source_format: pdf
+    source_as_of: "TODO(es): YYYY-MM-DD"
+    expression_date: "TODO(es): YYYY-MM-DD"
+    language: "TODO(es): ISO 639-1 code"
+    extraction:
+      segmentation: single_block
+    metadata:
+      primary_source: true
+      source_authority: "TODO(es): publishing authority"
+      document_type: "TODO(es): instrument type"
+      source_note: "TODO(es): provenance and amendment-diligence notes"
