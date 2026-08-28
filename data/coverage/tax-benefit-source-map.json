@@ -1,7 +1,37 @@
 {
-  "generated_at": "TODO(es)",
+  "generated_at": "2026-08-28",
   "jurisdiction": "es",
-  "validation_year": "TODO(es)",
-  "note": "TODO(es): map the tax-benefit surface to governing law.",
-  "instruments": []
+  "validation_year": "2022",
+  "note": "Bounded wealth-tax intake for the Cantó and García-Rodríguez replication. These prepared manifest paths are not a signed corpus-release binding.",
+  "source_intake": {
+    "status": "prepared_pending_publication",
+    "manifests": [
+      "manifests/es-wealth-tax-statutes-official-documents.yaml",
+      "manifests/es-md-wealth-tax-rebate-official-documents.yaml",
+      "manifests/es-an-wealth-tax-rebate-official-documents.yaml",
+      "manifests/es-ga-wealth-tax-rebate-official-documents.yaml"
+    ]
+  },
+  "instruments": [
+    {
+      "instrument": "Impuesto sobre el Patrimonio and temporary solidarity tax on large fortunes",
+      "governing_law": "Ley 19/1991 and Ley 38/2022",
+      "corpus_citation_paths": [
+        "es/statute/ley-19-1991/impuesto-sobre-el-patrimonio",
+        "es/statute/ley-38-2022/impuesto-temporal-solidaridad-grandes-fortunas"
+      ],
+      "status": "manifested_not_ingested"
+    },
+    {
+      "instrument": "2022 regional wealth-tax rebates",
+      "governing_law": "Madrid Decreto Legislativo 1/2010; Andalucía Decreto-ley 7/2022; Galicia Ley 18/2021 and Ley 7/2022",
+      "corpus_citation_paths": [
+        "es-md/statute/decreto-legislativo-1-2010/impuesto-patrimonio",
+        "es-an/statute/decreto-ley-7-2022/impuesto-patrimonio",
+        "es-ga/statute/ley-18-2021/impuesto-patrimonio",
+        "es-ga/statute/ley-7-2022/impuesto-patrimonio"
+      ],
+      "status": "manifested_not_ingested"
+    }
+  ]
 }

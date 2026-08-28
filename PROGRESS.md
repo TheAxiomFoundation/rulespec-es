@@ -2,18 +2,21 @@
 
 ## State
 
-The Spain repository scaffold exists. The wealth-tax source intake is committed
-in `axiom-corpus` at `65abb900660864d3b217b612369076ee05e9aba7`; CI and the
-signed corpus binding still need to be finalized.
+The Spain source scope and sub-jurisdiction layout are ready. The prepared
+axiom-corpus manifests are not yet published; the CI and toolchain placeholders
+therefore remain deliberately non-validating.
 
 ## Done
 
 - Created the jurisdiction-scoped repository layout and empty validation ratchets.
-- Identified the immutable upstream source-intake commit.
+- Identified the prepared upstream source manifests.
+- Added Madrid, Andalucía, and Galicia sub-jurisdiction layout roots.
+- Recorded the governing instruments and corpus manifest paths.
 
 ## Next
 
-- Pin CI dependency checkouts to immutable commits.
-- Ingest the Spain manifests, cut and sign the first `es` corpus release, and
-  replace the non-validating toolchain state with its three-key binding.
+- Publish and ingest the Spain manifests, then cut and sign the first `es`
+  corpus release and replace the non-validating toolchain state with its
+  three-key binding.
+- Pin the shared workflow and dependency commits in that dedicated post-release PR.
 - Encode and validate the first modules through `axiom-encode`.
